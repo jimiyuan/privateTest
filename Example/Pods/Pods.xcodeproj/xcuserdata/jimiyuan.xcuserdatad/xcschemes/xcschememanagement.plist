@@ -9,10 +9,20 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>privateTest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F1D66E1AD63CA62B58862ADFBA1DB5F8</key>
+		<key>3042F414DCF7C62020B8A0AFF9C99AF3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A43A180F02F1C2D547A5AD4C56421BA4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

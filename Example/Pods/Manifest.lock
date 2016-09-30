@@ -1,0 +1,16 @@
+PODS:
+  - privateTest (0.1.0)
+
+DEPENDENCIES:
+  - privateTest (from `../`)
+
+EXTERNAL SOURCES:
+  privateTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  privateTest: 4f222aac7a1a3a26312b0d9a915fa35cc7105e32
+
+PODFILE CHECKSUM: e21bf4ed482ff5eddae25a2de4e4542858b7066f
+
+COCOAPODS: 1.1.0.rc.2
